@@ -16,7 +16,14 @@
         <td width="48">男</td>
         <td width="121" rowspan="5" background="images/pic.jpg"></td>
     </tr>
-    
+       <tr>
+        <td>身份证:</td>
+        <td>XXXxxxx</td>
+        <td>户口:</td>
+        <td>辽宁省大连市</td>
+        <td>未婚状况:</td>
+        <td>未婚</td>
+    </tr>
     <tr>
         <td>学历:</td>
         <td>本科</td>
